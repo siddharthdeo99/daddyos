@@ -1,5 +1,5 @@
-# Debian-titus
-Debian customizations from Chris Titus Tech
+# Debian-sid
+Debian customizations from Daddy sid
  
 ## Requirements
 _This install changes Debian to the SID (Dev) Branch_
