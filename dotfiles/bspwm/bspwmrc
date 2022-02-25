@@ -98,5 +98,5 @@ sleep 2.5
 bspc desktop -f ^1
 bash ~/Git
 
-# Extra Specific Files for Titus (DELETE ME)
+# Extra Specific Files for  (DELETE ME)
 sudo /home/titus/GitHub/Debian-titus/dotfiles/bspwm/mount-drives.sh
